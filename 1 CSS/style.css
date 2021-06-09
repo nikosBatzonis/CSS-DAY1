@@ -1,0 +1,21 @@
+div {
+  border: 1px solid red;
+  margin: 5px;
+}
+
+#third > p {
+  display: none;
+}
+
+h1 {
+  display: none;
+}
+
+#fifth,
+#sixth {
+  display: none;
+}
+
+#sixth {
+  display: inline;
+}
